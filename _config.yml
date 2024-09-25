@@ -1,10 +1,10 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
+title:               舜典
+tagline:             '"Canon of Shun" is a chapter in the ancient classic, Shangshu'
+description:         ''
+url:                 ''
 baseurl:             '/ed'
 
 # About/contact
