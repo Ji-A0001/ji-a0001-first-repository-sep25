@@ -1,12 +1,12 @@
 ---
-layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+layout: Chinese classic
+title: 舜典
+author: unknown
+editor: Ji Yeon Ahn
+source: Scripta Sinica
 ---
 
-- Ya las gentes murmuran que yo soy tu enemiga
+- 虞舜側微為庶人故微賤堯聞之聦明將使嗣位歷試諸難嗣繼也試以治民之難事○難乃丹反作舜典舜典典之義與堯同
 - porque dicen que en verso doy al mundo mi yo.
 
 - Mienten, *Julia de Burgos*. Mienten, Julia de Burgos.
