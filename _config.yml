@@ -9,12 +9,12 @@ baseurl:             '/ji-a0001-first-repository-sep25'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Ji Yeon
+  url:               
+  email:             jiyeon.ahn@yale.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
